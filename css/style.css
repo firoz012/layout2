@@ -1,0 +1,59 @@
+
+
+.container{
+	width:990px;
+	margin: auto;
+}
+.logo{
+	border-bottom: #00000017;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin:  auto;
+	height: 100px;
+}
+.header-content{}
+.header-content h1{
+    text-align: center;
+    padding: 0px 212px;
+    font-size: 32px;
+}
+.header-content h2{
+	font-size: 31px;
+    width: 170px;
+    text-align: left;
+}
+.header-content p{
+	    margin-bottom: 35px;
+    font-size: 18px;
+}
+.header-content img{
+	border-radius: 5px;
+}
+.tomato{
+	color: tomato;
+}
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}
+.orange{
+	color: orange;
+}
+.footer-content{
+	background-color: #00800094;
+	padding: 20px 0px;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+}
+.footer-content h2{
+	padding: 0px 290px;
+    font-size: 34px;
+}
+.footer-content h2:hover{
+	color:orange;
+}
